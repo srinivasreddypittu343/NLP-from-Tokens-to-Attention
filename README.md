@@ -6,7 +6,7 @@ This repository contains my **CS5760 Natural Language Processing — Home Assign
 
 The assignment covers **Seq2Seq models, attention mechanisms, self-attention, multi-head attention, and Transformers**. It also includes three practical Python exercises using **NLTK, spaCy, and NumPy**.
 
-All three programs and their saved outputs are in **one Jupyter notebook**: [`Homework_4.ipynb`](Homework_4.ipynb). The completed written answers are in the [Word assignment](Home_Assignment_4_Completed%284%29.docx).
+All three programs and their saved outputs are in **one Jupyter notebook**: [`Homework_4.ipynb`](Homework_4.ipynb). The completed written answers are in the [Word assignment](Home_Assignment_4.docx).
 
 ---
 
