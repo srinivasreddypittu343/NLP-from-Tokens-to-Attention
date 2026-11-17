@@ -128,7 +128,7 @@ Final Output Matrix:
 | File | Description |
 | --- | --- |
 | [`Homework_4.ipynb`](Homework_4.ipynb) | **Single notebook** containing all three Python programs and their saved outputs. |
-| [`Home_Assignment_4_Completed(4).docx`](Home_Assignment_4_Completed%284%29.docx) | Completed theory answers, coding questions, explanations, and output screenshots. |
+| [`Home_Assignment_4.docx`](Home_Assignment_4.docx) | Completed theory answers, coding questions, explanations, and output screenshots. |
 | `README.md` | This overview of the assignment and code. |
 
 ## ▶️ How to Run
