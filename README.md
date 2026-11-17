@@ -3,17 +3,14 @@
 This repository contains my **Home Assignment 4** answers and Python programs. All three programming questions are in **one Jupyter Notebook**: `Homework_4.ipynb`.
 
 **Student:** Srinivas Reddy Pittu  
-**University:** University of Central Missouri  
-**Department:** Computer Science & Cybersecurity  
-**Course:** CS5760 — Natural Language Processing  
-**Semester:** Fall 2026
+**ID:** 700777009
 
 ## Repository files
 
 | File | Description |
 | --- | --- |
 | [Homework_4.ipynb](Homework_4.ipynb) | One notebook with Q1, Q2, Q3 code and saved outputs. |
-| [Home_Assignment_4_Completed(4).docx](Home_Assignment_4_Completed%284%29.docx) | Completed written assignment, code, answers, and output screenshots. |
+| [Home_Assignment_4_Completed(4).docx](Home_Assignment_4.docx) | Completed written assignment, code, answers, and output screenshots. |
 | README.md | Summary of the questions and explanation of the code. |
 
 ## Part I — Theory question summaries
@@ -32,10 +29,6 @@ Multiple heads learn different word relationships. For **512 embedding dimension
 
 **Q5. Transformer Architecture**  
 Positional encodings provide word order; masked attention prevents access to future words. Transformers can train on tokens in parallel, unlike RNNs, but still generate text one token at a time.
-
-## Part II — Python programs
-
-All code is in [Homework_4.ipynb](Homework_4.ipynb), with **one cell per question**.
 
 ### Q1. NLP Preprocessing — NLTK
 
@@ -103,5 +96,3 @@ Final Output Matrix:
    ```
 
 3. Run the three cells in order. Q1 uses a small backup stopword list if NLTK's stopword data is unavailable. To download the full list, run `import nltk; nltk.download('stopwords')` in a notebook cell.
-
-The **Word document** contains the complete written answers. The **notebook** contains all the code and saved results.
